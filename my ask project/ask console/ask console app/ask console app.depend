@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642023743 source:/home/lemo/Desktop/my ask project/ask console/ask console app/main.cpp
+	<iostream>
+	<sstream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642021463 source:/home/lemo/Desktop/my ask project/ask/main.cpp
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<fstream>
+	<sstream>
+	<iostream>
+	<assert.h>
+

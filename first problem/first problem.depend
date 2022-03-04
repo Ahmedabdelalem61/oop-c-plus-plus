@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643641196 source:/home/lemo/Desktop/c++ dr moustafa course oop/first problem/main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
